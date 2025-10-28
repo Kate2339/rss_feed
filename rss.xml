@@ -1,18 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
     <rss version="2.0">
       <channel>
-        <title>Мой Telegram канал</title>
-        <link>https://t.me/svetvill_ru</link>
-        <description>Обновлено автоматически</description>
-        <item>
-        
+        <item>       
           
-    <img src="AgACAgQAAxkBAAIGH2kBBTWYFM1I0bekt0MVH_Fsrh_jAAIzC2sbhfsIUA-8r-eNUzA_AQADAgADeQADNgQ.png" alt="svetville">
+        <enclosure url='https://api.telegram.org/file/bot8256612947:AAFPgmFyM_KJCPsbyqSFR8osb-rtG5pmv3g/photos/file_77.jpg' type="video/mp4"/>
 
-          <description>Новогодняя подсветка дома, Подсветка фасада загородного дома, Новогодняя иллюминация, Освещение дома снаружи. Декоративная подсветка фасада с компанией СВЕТВИЛЛ, закажите прямо сейчас по ссылке в профиле, на сайте svetville.ru
+          <description>Новогодняя подсветка дома • Уличное освещение частного дома — svetville.ru. Декоративная подсветка фасада с компанией СВЕТВИЛЛ, закажите прямо сейчас по ссылке в профиле, на сайте svetville.ru
 
-#подсветка #иллюминация #свет #фасад #декор #уют #lighting #design #home #aesthetic</description>
-          
+#подсветка #иллюминация #свет #фасад #декор #уют #lighting #design #home #aesthetic</description>         
         </item>
       </channel>
     </rss>
