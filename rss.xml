@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
-  <channel>
-    <title>Мой Telegram канал</title>
-    <link>https://t.me/my_channel</link>
-    <description>Автоматическая RSS-лента</description>
-  </channel>
-</rss>
+    <rss version="2.0">
+      <channel>
+        <title>Мой Telegram канал</title>
+        <link>https://t.me/svetville_rf</link>
+        <description>Обновлено автоматически</description>
+        <item>
+        
+          <title>Новый пост</title>
+          <link>https://t.me/my_channel/123</link>
+          <description>Описание поста</description>
+          <pubDate>Tue, 28 Oct 2025 20:00:00 +0300</pubDate>
+        </item>
+      </channel>
+    </rss>
+    
