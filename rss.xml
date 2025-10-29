@@ -1,35 +1,26 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
-  <channel>
-    <title>СВЕТВИЛЛ | Освещение дома – Telegram</title>
-    <link>https://t.me/s/svetvill_ru</link>
-    <description>Автоматическая RSS-лента с фото и видео</description>
-    <language>ru</language>
-    <atom:link href="https://raw.githubusercontent.com/Kate2339/rss_feed/main/rss.xml" rel="self" type="application/rss+xml"/>
-    <generator>Custom Python Script</generator>
-    <pubDate>Wed, 29 Oct 2025 09:30:34 +0000</pubDate>
+This XML file does not appear to have any style information associated with it. The document tree is shown below.
+<rss version="2.0">
+<channel>
+<title>СВЕТВИЛЛ | Освещение дома – Telegram</title>
+<description>СВЕТВИЛЛ | Освещение дома – Telegram</description>
+<pubDate>Wed, 29 Oct 2025 09:30:34 +0000</pubDate>
+<link>https://t.me/s/svetvill_ru</link>
+<atom:link href="https://fetchrss.com/feed/aQHqMEprD2ZSaQHqSU4--Sdi.rss" rel="self" type="application/rss+xml"/>
+<generator>https://fetchrss.com</generator>
 
-    <image>
-      <url>https://www.google.com/s2/favicons?domain=t.me</url>
-      <title>СВЕТВИЛЛ</title>
-      <link>https://t.me/s/svetvill_ru</link>
-    </image>
-
-    <item>
-      <title>Новогодняя подсветка дома • svetville.ru</title>
-      <link>https://t.me/svetvill_ru/11</link>
-      <guid isPermaLink="false">11</guid>
-      <pubDate>Wed, 29 Oct 2025 09:30:34 +0000</pubDate>
-      <description><![CDATA[
-        <img src="https://cdn4.telesco.pe/file/AlbadNtbUu7_pOfF8IMInpxUQCYVcXI0pKZZtV48M5b9vv4UZVxrNmoll1JQuRBAUaWNV4-cC0ntTUBQF8nuXH2yEVaODjdmn34Wy7MMW5l0JTwBXmCZ1F10CoecCXBDxFkLoFkvb0m3pSl8wJJAJXyZ2z14eci2XPcqG99aQyyebnqCoXdyY1KoAcQ4Mbkr5E6-F7-_igxzUJgEvgMyCyLgXyWayRZrhlpApy93yNdwDlMaKHnSAhLZRdK6uANqcW4aqC3lBtNDpOjJwvGw3tUDzslf0P2UKYcm0DFLZU_mMzbw6Fa-iViei3-CYIQy2naYGILjGWM4MzaDDtlmyQ.jpg" alt="Новогодняя подсветка дома" />
-        <br><br>
-        Новогодняя подсветка дома • Уличное освещение частного дома • svetville.ru
-        <br><br>
-        #подсветка #иллюминация #свет #фасад #декор #lighting #design #home #aesthetic
-      ]]></description>
-      <media:content url="https://cdn4.telesco.pe/file/AlbadNtbUu7_pOfF8IMInpxUQCYVcXI0pKZZtV48M5b9vv4UZVxrNmoll1JQuRBAUaWNV4-cC0ntTUBQF8nuXH2yEVaODjdmn34Wy7MMW5l0JTwBXmCZ1F10CoecCXBDxFkLoFkvb0m3pSl8wJJAJXyZ2z14eci2XPcqG99aQyyebnqCoXdyY1KoAcQ4Mbkr5E6-F7-_igxzUJgEvgMyCyLgXyWayRZrhlpApy93yNdwDlMaKHnSAhLZRdK6uANqcW4aqC3lBtNDpOjJwvGw3tUDzslf0P2UKYcm0DFLZU_mMzbw6Fa-iViei3-CYIQy2naYGILjGWM4MzaDDtlmyQ.jpg" medium="image"/>
-    </item>
-  </channel>
+<item>
+<title>
+Новогодняя подсветка дома и фасада, уличное освещение частного дома — svetville.ru
+</title>
+<link>https://t.me/svetvill_ru/2</link>
+<description>
+<video src="https://cdn4.telesco.pe/file/58183ba5ac.mp4?token=jy0MRzqIpZhZ7XW4gtYr3oSXUhnSEpODZ7AKMcpxrw8BIjd-74HmWm0yqzCYh4NwXcPzyCydE424HxPQgps-Cey9Xh0vdt5-a0EHpdLmfAwFwN5lGGKxlzmP-7cOg6DjG0uskldK2r2FjnEHGxP7cxQp4AVXCRnRpV7iBPTJP-1AEdeJtjfCSO_klTtJ-O-Aa76Fl2H0vbQGbc2Lm1YRfOuUCC1E9X71UTErK-Y9T9xvI47w-6lp_z_gJlx-oyghgX3cMyI4DblNaxzh-juxC9Y4ZLE98N7dPEDkqV7_zWbM6tWlH-rDRs3ujnIcZy4ZBpPtWgK88O9bQVmgUSURKQ" controls="controls" poster="https://cdn4.telesco.pe/file/HRt_fjUTB1Giq0DONaUrg1nhnV_1Qv83Q_vkfyXZocMX2NZAHUFRcVCmlt0_1mMqdlhMPS9rgy3BjKauWYPQC3OZm6hTzSyOhqAVKQcUPDm58Q8zjm7PgLYxVddg2rHL-3J5u0ZIrAXWfjflYCUJ8lK3je0CvBETZtn5lsu4ERF9ZTfJ0Tt-fKweA-WZnrzJmoVW3fMvb5r_-67p3e_Ulh3r2xj6qokHtbGKCuPK0wg5dFYAwOiokUdbuVXtMFDY0ckrZSVPEtunW9D4Wi4GKFFQLmPqmEqbcbGmGIv8ex3aFLYtyAQzb35oYhCj5DrfYqsU9HpkTu_ohbJn8GdKTw" style="max-width:400px;max-height:500px"></video><br><div class="tgme_widget_message_text js-message_text" dir="auto">Новогодняя подсветка дома и фасада, уличное освещение частного дома — <a href="http://svetville.ru/" target="_blank" rel="noopener">svetville.ru</a>. Иллюминация на Новый год, подсветка фасада. Декоративная подсветка фасада с компанией СВЕТВИЛЛ, закажите прямо сейчас по ссылке в профиле, на сайте<br/><br/><a href="https://t.me/s/?q=%23%D0%BF%D0%BE%D0%B4%D1%81%D0%B2%D0%B5%D1%82%D0%BA%D0%B0">#подсветка</a> <a href="https://t.me/s/?q=%23%D0%B8%D0%BB%D0%BB%D1%8E%D0%BC%D0%B8%D0%BD%D0%B0%D1%86%D0%B8%D1%8F">#иллюминация</a> <a href="https://t.me/s/?q=%23%D1%81%D0%B2%D0%B5%D1%82">#свет</a> <a href="https://t.me/s/?q=%23%D1%84%D0%B0%D1%81%D0%B0%D0%B4">#фасад</a> <a href="https://t.me/s/?q=%23%D0%B4%D0%B5%D0%BA%D0%BE%D1%80">#декор</a> <a href="https://t.me/s/?q=%23%D1%83%D1%8E%D1%82">#уют</a> <a href="https://t.me/s/?q=%23lighting">#lighting</a> <a href="https://t.me/s/?q=%23design">#design</a> <a href="https://t.me/s/?q=%23home">#home</a> <a href="https://t.me/s/?q=%23aesthetic">#aesthetic</a></div><br/><br/><span style="font-size:12px; color: gray;">(Feed generated with <a href="https://fetchrss.com/feedLink?w=6901ea494eb6873ef90c2762" target="_blank">FetchRSS</a>)</span>
+</description>
+<pubDate>Tue, 28 Oct 2025 11:15:16 +0000</pubDate>
+<media:content url="https://cdn4.telesco.pe/file/HRt_fjUTB1Giq0DONaUrg1nhnV_1Qv83Q_vkfyXZocMX2NZAHUFRcVCmlt0_1mMqdlhMPS9rgy3BjKauWYPQC3OZm6hTzSyOhqAVKQcUPDm58Q8zjm7PgLYxVddg2rHL-3J5u0ZIrAXWfjflYCUJ8lK3je0CvBETZtn5lsu4ERF9ZTfJ0Tt-fKweA-WZnrzJmoVW3fMvb5r_-67p3e_Ulh3r2xj6qokHtbGKCuPK0wg5dFYAwOiokUdbuVXtMFDY0ckrZSVPEtunW9D4Wi4GKFFQLmPqmEqbcbGmGIv8ex3aFLYtyAQzb35oYhCj5DrfYqsU9HpkTu_ohbJn8GdKTw" medium="image"/>
+<guid isPermaLink="false">2</guid>
+</item>
+</channel>
 </rss>
 
 
