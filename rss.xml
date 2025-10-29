@@ -1,17 +1,35 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0">
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
-    <title>Example Feed</title>
-    <description>Insert witty or insightful remark here</description>
-    <link>http://example.org/</link>
-    <lastBuildDate>Sat, 13 Dec 2003 18:30:02 GMT</lastBuildDate>
+    <title>СВЕТВИЛЛ | Освещение дома – Telegram</title>
+    <link>https://t.me/s/svetvill_ru</link>
+    <description>Автоматическая RSS-лента с фото и видео</description>
+    <language>ru</language>
+    <atom:link href="https://raw.githubusercontent.com/Kate2339/rss_feed/main/rss.xml" rel="self" type="application/rss+xml"/>
+    <generator>Custom Python Script</generator>
+    <pubDate>Wed, 29 Oct 2025 09:30:34 +0000</pubDate>
+
+    <image>
+      <url>https://www.google.com/s2/favicons?domain=t.me</url>
+      <title>СВЕТВИЛЛ</title>
+      <link>https://t.me/s/svetvill_ru</link>
+    </image>
+
     <item>
-      <title>Atom-Powered Robots Run Amok</title>
-      <link>http://example.org/2003/12/13/atom03</link>
-      <guid isPermaLink="false">urn:uuid:1225c695-cfb8-4ebb-aaaa-80da344efa6a</guid>
-      <pubDate>Sat, 13 Dec 2003 18:30:02 GMT</pubDate>
-      <description>Some text.</description>
+      <title>Новогодняя подсветка дома • svetville.ru</title>
+      <link>https://t.me/svetvill_ru/11</link>
+      <guid isPermaLink="false">11</guid>
+      <pubDate>Wed, 29 Oct 2025 09:30:34 +0000</pubDate>
+      <description><![CDATA[
+        <img src="https://cdn4.telesco.pe/file/AlbadNtbUu7_pOfF8IMInpxUQCYVcXI0pKZZtV48M5b9vv4UZVxrNmoll1JQuRBAUaWNV4-cC0ntTUBQF8nuXH2yEVaODjdmn34Wy7MMW5l0JTwBXmCZ1F10CoecCXBDxFkLoFkvb0m3pSl8wJJAJXyZ2z14eci2XPcqG99aQyyebnqCoXdyY1KoAcQ4Mbkr5E6-F7-_igxzUJgEvgMyCyLgXyWayRZrhlpApy93yNdwDlMaKHnSAhLZRdK6uANqcW4aqC3lBtNDpOjJwvGw3tUDzslf0P2UKYcm0DFLZU_mMzbw6Fa-iViei3-CYIQy2naYGILjGWM4MzaDDtlmyQ.jpg" alt="Новогодняя подсветка дома" />
+        <br><br>
+        Новогодняя подсветка дома • Уличное освещение частного дома • svetville.ru
+        <br><br>
+        #подсветка #иллюминация #свет #фасад #декор #lighting #design #home #aesthetic
+      ]]></description>
+      <media:content url="https://cdn4.telesco.pe/file/AlbadNtbUu7_pOfF8IMInpxUQCYVcXI0pKZZtV48M5b9vv4UZVxrNmoll1JQuRBAUaWNV4-cC0ntTUBQF8nuXH2yEVaODjdmn34Wy7MMW5l0JTwBXmCZ1F10CoecCXBDxFkLoFkvb0m3pSl8wJJAJXyZ2z14eci2XPcqG99aQyyebnqCoXdyY1KoAcQ4Mbkr5E6-F7-_igxzUJgEvgMyCyLgXyWayRZrhlpApy93yNdwDlMaKHnSAhLZRdK6uANqcW4aqC3lBtNDpOjJwvGw3tUDzslf0P2UKYcm0DFLZU_mMzbw6Fa-iViei3-CYIQy2naYGILjGWM4MzaDDtlmyQ.jpg" medium="image"/>
     </item>
   </channel>
 </rss>
+
 
