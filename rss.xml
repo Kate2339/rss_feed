@@ -1,27 +1,17 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
   <channel>
-    <title>Мой Telegram канал</title>
-    <link>https://t.me/svetvill_ru</link>
-    <description>Автоматическая RSS-лента с фото</description>
-    <atom:link href="https://raw.githubusercontent.com/Kate2339/rss_feed/main/rss.xml" rel="self" type="application/rss+xml" />
-
+    <title>Example Feed</title>
+    <description>Insert witty or insightful remark here</description>
+    <link>http://example.org/</link>
+    <lastBuildDate>Sat, 13 Dec 2003 18:30:02 GMT</lastBuildDate>
     <item>
-      <title>Новогодняя подсветка дома</title>
-      <link>https://t.me/svetvill_ru/1</link>
-      <guid isPermaLink="false">post-1730215200</guid>
-      <pubDate>Wed, 29 Oct 2025 20:00:00 +0300</pubDate>
-      <enclosure 
-        url="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Fronalpstock_big.jpg/800px-Fronalpstock_big.jpg" 
-        type="image/jpeg" 
-        length="12345" />
-      <description><![CDATA[
-      Новогодняя подсветка загородного дома.  
-      Уют, огни и праздничная атмосфера!  
-      <br><br>
-      #подсветка #фасад #свет #декор #новыйгод
-      ]]></description>
+      <title>Atom-Powered Robots Run Amok</title>
+      <link>http://example.org/2003/12/13/atom03</link>
+      <guid isPermaLink="false">urn:uuid:1225c695-cfb8-4ebb-aaaa-80da344efa6a</guid>
+      <pubDate>Sat, 13 Dec 2003 18:30:02 GMT</pubDate>
+      <description>Some text.</description>
     </item>
-
   </channel>
 </rss>
+
