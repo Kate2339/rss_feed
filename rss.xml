@@ -1,24 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
-    <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-      <channel>
-        <title>Мой Telegram канал</title>
-        <link>https://t.me/svetvill_ru</link>
-        <description>Автоматическая RSS-лента с фото и видео</description>
-        <atom:link href="https://raw.githubusercontent.com/Kate2339/rss_feed/main/rss.xml" rel="self" type="application/rss+xml" />
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Мой Telegram канал</title>
+    <link>https://t.me/svetvill_ru</link>
+    <description>Автоматическая RSS-лента с фото</description>
+    <atom:link href="https://raw.githubusercontent.com/Kate2339/rss_feed/main/rss.xml" rel="self" type="application/rss+xml" />
 
-        <item>
-          <title>Новый пост из Telegram</title>
-          <link>https://t.me/svetvill_ru</link>
-          <guid>post-1761730231</guid>
-          <enclosure url='https://api.telegram.org/file/bot8256612947:AAFPgmFyM_KJCPsbyqSFR8osb-rtG5pmv3g/photos/file_77.jpg' type='image/jpeg' length='0'/>
-          <description><![CDATA[
-    Новогодняя подсветка дома • Подсветка фасада загородного дома • Новогодняя иллюминация дома • svetville.ru. Декоративная подсветка фасада с компанией СВЕТВИЛЛ, закажите прямо сейчас по ссылке в профиле, на сайте
+    <item>
+      <title>Новогодняя подсветка дома</title>
+      <link>https://t.me/svetvill_ru/1</link>
+      <guid isPermaLink="false">post-1730215200</guid>
+      <pubDate>Wed, 29 Oct 2025 20:00:00 +0300</pubDate>
+      <enclosure 
+        url="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Fronalpstock_big.jpg/800px-Fronalpstock_big.jpg" 
+        type="image/jpeg" 
+        length="12345" />
+      <description><![CDATA[
+      Новогодняя подсветка загородного дома.  
+      Уют, огни и праздничная атмосфера!  
+      <br><br>
+      #подсветка #фасад #свет #декор #новыйгод
+      ]]></description>
+    </item>
 
-#подсветка #иллюминация #свет #фасад #декор #уют #lighting #design #home #aesthetic
-          ]]></description>
-          <pubDate>Wed, 29 Oct 2025 09:30:31 +0300</pubDate>
-        </item>
-
-      </channel>
-    </rss>
-    
+  </channel>
+</rss>
